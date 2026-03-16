@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # General
 This project can be used as a starting project for your own projects which have a JavaFX GUI. Note, that this project does not require to have JavaFX installed. The JavaFX jar files are referenced as Maven dependencies from the `pom.xml` file.
 
